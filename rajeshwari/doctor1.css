@@ -1,0 +1,29 @@
+div.absolute {
+   
+    top:330px;
+    right:10%;
+    width: 950px;
+    height: 350px;
+    border: 0;
+}
+
+.collapsible {
+    background-color: skyblue;
+    color: black;
+ 
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border:none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+
+div.content {
+    padding: 18px;
+    display: none;
+    overflow: hidden;
+    width: 100%
+}
